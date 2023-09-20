@@ -16,7 +16,7 @@
 * <b>Nickname:</b> GuMengSama
 * <b>Loves:</b> Anime, Moba Games
 * <b>Gender:</b> Male
-* <b>Country:</b>Chin
+* <b>Country:</b>China
 
 <br><br><br><br><br><br>
 <div><h2 align="center">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
