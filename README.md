@@ -16,7 +16,7 @@
 </div>
 
 * <b>Nickname:</b> GuMengSama
-* <b>Loves:</b> Anime, Moba Games
+* <b>Loves:</b> Anime, Moba Games，Dark Souls
 * <b>Gender:</b> Male
 * <b>Country:</b>China
 
