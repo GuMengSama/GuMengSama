@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm GuMengSama!</h1>
 
-<h2 align="center">Welcome to my GitHub profile~</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+homepage)](https://git.io/typing-svg)
 
 <h2 align="center">~🍓 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🍓~</h2>
 
