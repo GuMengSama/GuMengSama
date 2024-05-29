@@ -27,7 +27,7 @@
 <div align="center">
 <img src="Knowledge.gif" align="right">
 </div>
-<p align="center"><img src="https://img.shields.io/badge/Python-%231DA1F2?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-%2313368a?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033?&style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Pytorch-%23ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/go%20-%231DA1F2?&style=for-the-badge&logo=go&logoSize=auto&logoColor=white"></img> <br><br>I am improving myself as a CS student at Tianjin University now~
+<p align="center"><img src="https://img.shields.io/badge/Python-%231DA1F2?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-%2313368a?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033?&style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Pytorch-%23ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/> <br><br>I am improving myself as a CS student at Tianjin University now~
 </p>
 
 
